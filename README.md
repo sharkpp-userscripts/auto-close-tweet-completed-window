@@ -6,7 +6,7 @@
 
 ## インストール
 
-このスクリプトは [Greasy Fork](https://greasyfork.org/ja/scripts/999999-auto-close-tweet-completed-window) のページからインストールすることが出来ます。
+このスクリプトは [Greasy Fork](https://greasyfork.org/ja/scripts/24172-auto-close-tweet-completed-window) のページからインストールすることが出来ます。
 
 インストールおよび実行するには下記のような拡張が必要になります。
 
